@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 import argparse
-import fnmatch
 import hashlib
 import ipaddress
 import json
@@ -68,10 +67,16 @@ def normalize_domain(value: str) -> str:
 
 
 def wildcard_to_regex(pattern: str) -> str:
-    translated = fnmatch.translate(pattern)
-    if translated.startswith("(?s:") and translated.endswith(")\\Z"):
-        translated = translated[4:-3]
-    return "^" + translated.strip("^").rstrip("$") + "$"
+    """Convert a simple glob to a Go/RE2-compatible regular expression.
+
+    Do not use fnmatch.translate() here.  Recent Python versions may emit
+    atomic groups such as ``(?>...)`` for patterns containing multiple ``*``.
+    Go's regexp engine (used by sing-box/Karing) does not support atomic
+    groups, so the SRS file can compile but later fail when Karing loads it.
+    """
+    escaped = re.escape(pattern)
+    escaped = escaped.replace(r"\*", ".*").replace(r"\?", ".")
+    return "^" + escaped + "$"
 
 
 def strip_inline_comment(value: str) -> str:

@@ -7,7 +7,7 @@ import json
 import tempfile
 from pathlib import Path
 
-from build_rules import compile_srs, convert_clash_yaml
+from build_rules import compile_srs, convert_clash_yaml, wildcard_to_regex
 
 
 def main() -> int:
@@ -23,6 +23,12 @@ def main() -> int:
     expected_suffixes = {'163yun.com', 'music.163.com', 'example.org', 'typed.example'}
     if not expected_suffixes.issubset(set(rule.get('domain_suffix', []))):
         raise RuntimeError(f"wildcard conversion failed: {rule}")
+
+    # A pattern with multiple '*' used to make Python fnmatch.translate emit
+    # an atomic group `(?>...)`, which Go/RE2 cannot parse.
+    regex = wildcard_to_regex('ads*track*example.com')
+    if '(?' in regex or regex != '^ads.*track.*example\\.com$':
+        raise RuntimeError(f"non-RE2 wildcard regex generated: {regex}")
 
     ip_yaml = b"""payload:\n  - 192.168.1.9/24\n  - 2001:db8::1/64\n"""
     ip_doc, ip_warnings = convert_clash_yaml(ip_yaml, 'ipcidr')
@@ -40,7 +46,7 @@ def main() -> int:
         if output.read_bytes()[:3] != b'SRS':
             raise RuntimeError('compiled test file is not SRS')
 
-    print('Self-test passed: wildcard YAML, CIDR normalization, and SRS compiler.')
+    print('Self-test passed: RE2-safe wildcard conversion, YAML repair, CIDR normalization, and SRS compiler.')
     return 0
 
 
