@@ -1,0 +1,896 @@
+{
+  "succeeded": [
+    {
+      "name": "115_domain",
+      "output_file": "115_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/115.json",
+      "source_json": "source-json/115_domain.json",
+      "bytes": 154,
+      "sha256": "f63fa3640e3277e558998b3af7742f1d733be8a84f416fc9979b6a5d931d221d",
+      "warnings": []
+    },
+    {
+      "name": "Amazon_domain",
+      "output_file": "amazon_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/amazon.json",
+      "source_json": "source-json/amazon_domain.json",
+      "bytes": 2354,
+      "sha256": "2e77d5653a345aa85a69b176fe99316c44288cb2cf63ebe465d0fc6c607db5e4",
+      "warnings": []
+    },
+    {
+      "name": "Amazon_ip",
+      "output_file": "amazon_ip.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/IP/amazon-ip.yaml",
+      "source_json": "source-json/amazon_ip.json",
+      "bytes": 4242,
+      "sha256": "98f85ca657d8a7850f5283c4e77964d747ce4b8c6c5f92f197eeacb9dbe2aaaf",
+      "warnings": []
+    },
+    {
+      "name": "Binance_domain",
+      "output_file": "binance_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/binance.json",
+      "source_json": "source-json/binance_domain.json",
+      "bytes": 488,
+      "sha256": "d035848569ea9f9b226a5adb2630b6006ef4c7225e696ad235916a44d03b9977",
+      "warnings": []
+    },
+    {
+      "name": "Blizzard_domain",
+      "output_file": "blizzard_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/blizzard.json",
+      "source_json": "source-json/blizzard_domain.json",
+      "bytes": 331,
+      "sha256": "f4575247dc5d2f47161da4c92e70777c0b4c70d48f559a037a1722650d579cba",
+      "warnings": []
+    },
+    {
+      "name": "Bybit_domain",
+      "output_file": "bybit_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/bybit.json",
+      "source_json": "source-json/bybit_domain.json",
+      "bytes": 200,
+      "sha256": "df0a79d48be7b00f530f7259898c125669b4cb732f836d2d3f2233e8b8a37f04",
+      "warnings": []
+    },
+    {
+      "name": "Cloudflare_domain",
+      "output_file": "cloudflare_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/cloudflare.json",
+      "source_json": "source-json/cloudflare_domain.json",
+      "bytes": 865,
+      "sha256": "b7208b71b3c53a4419e214033b2a96043423178e0769687aa8f409499a870292",
+      "warnings": []
+    },
+    {
+      "name": "EA_domain",
+      "output_file": "ea_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/ea.json",
+      "source_json": "source-json/ea_domain.json",
+      "bytes": 1675,
+      "sha256": "b7bdd85194479896ea1ca82c13a387dea81a362c5920919a606acdff9a7ca108",
+      "warnings": []
+    },
+    {
+      "name": "Epic_domain",
+      "output_file": "epic_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/epicgames.json",
+      "source_json": "source-json/epic_domain.json",
+      "bytes": 423,
+      "sha256": "d2adc1b7f51dede85ca1ffb7fb8213963cf1ef4a9a2f887a9c49b0802d3c0e61",
+      "warnings": []
+    },
+    {
+      "name": "NetEaseMusic_domain",
+      "output_file": "neteasemusic_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/NetEaseMusic-domain.yaml",
+      "source_json": "source-json/neteasemusic_domain.json",
+      "bytes": 175,
+      "sha256": "99b36b4e039bd1d8ccf24e237d985999f207fb0a4be3629abe3559567dea7f10",
+      "warnings": []
+    },
+    {
+      "name": "NetEaseMusic_ip",
+      "output_file": "neteasemusic_ip.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/IP/NetEaseMusic-ip.yaml",
+      "source_json": "source-json/neteasemusic_ip.json",
+      "bytes": 136,
+      "sha256": "35f5f37faea8361570cfc6d89119972827c9c0f4752165b72bb4fa4b1c17cb6e",
+      "warnings": []
+    },
+    {
+      "name": "Nintendo_domain",
+      "output_file": "nintendo_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/nintendo.json",
+      "source_json": "source-json/nintendo_domain.json",
+      "bytes": 1360,
+      "sha256": "eb2e75a6ea334809d9583c2b4ec0b17afb0805f8a04b4f99124b750505239d38",
+      "warnings": []
+    },
+    {
+      "name": "OKX_domain",
+      "output_file": "okx_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/okx.json",
+      "source_json": "source-json/okx_domain.json",
+      "bytes": 148,
+      "sha256": "48d1e25dc3bfb9aadaf29681c407855a9ddb0b288ea75f4c1563f2de88f985e5",
+      "warnings": []
+    },
+    {
+      "name": "Shopee_domain",
+      "output_file": "shopee_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/shopee.json",
+      "source_json": "source-json/shopee_domain.json",
+      "bytes": 221,
+      "sha256": "49ff6ff61b676fe837649f4d6d74224c5ab23d8d16d945cc576f380c71455ab9",
+      "warnings": []
+    },
+    {
+      "name": "Shopify_domain",
+      "output_file": "shopify_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/shopify.json",
+      "source_json": "source-json/shopify_domain.json",
+      "bytes": 132,
+      "sha256": "e5a78f61417a63adffa8ad506d15e88f86295b94286b10dfb8b8f362b503d3e0",
+      "warnings": []
+    },
+    {
+      "name": "Sony_domain",
+      "output_file": "sony_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/sony.json",
+      "source_json": "source-json/sony_domain.json",
+      "bytes": 958,
+      "sha256": "e3dd6417ee026a51570f19e7c86a430dc48ac3eb5b3a1e57383eb4a43af09c24",
+      "warnings": []
+    },
+    {
+      "name": "TVB_domain",
+      "output_file": "tvb_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/tvb.yaml",
+      "source_json": "source-json/tvb_domain.json",
+      "bytes": 468,
+      "sha256": "8d2be0adcc9e877fe2051bf7a2c54f10301d2c657cd3490f59cd2e5a734a4cf2",
+      "warnings": []
+    },
+    {
+      "name": "UBI_domain",
+      "output_file": "ubi_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/ubi.yaml",
+      "source_json": "source-json/ubi_domain.json",
+      "bytes": 126,
+      "sha256": "ebe961ef3107be7c89ff3e7add90357f38f12a42f0e165fa7d2dd856dcae6dff",
+      "warnings": []
+    },
+    {
+      "name": "Wise_domain",
+      "output_file": "wise_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/wise.json",
+      "source_json": "source-json/wise_domain.json",
+      "bytes": 53,
+      "sha256": "d0a57c316e93875366cb0759bfa55e3e2bfd409ac79b59c45ae2b1244c442825",
+      "warnings": []
+    },
+    {
+      "name": "ai!cn_domain",
+      "output_file": "ai-not-cn_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-ai-!cn.json",
+      "source_json": "source-json/ai-not-cn_domain.json",
+      "bytes": 1718,
+      "sha256": "41ae2079ac5a06b029ccfcc257e775399a5e5debe17559fb0454beae47012f05",
+      "warnings": []
+    },
+    {
+      "name": "ai_cn_domain",
+      "output_file": "ai_cn_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-ai-cn.json",
+      "source_json": "source-json/ai_cn_domain.json",
+      "bytes": 958,
+      "sha256": "204c026855e4a3a2dd178c72223cafc52b783279dd2c5fb2684882422dc003fe",
+      "warnings": []
+    },
+    {
+      "name": "ai_domain",
+      "output_file": "ai_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/ai.yaml",
+      "source_json": "source-json/ai_domain.json",
+      "bytes": 69,
+      "sha256": "84a463090a161369ce40e7b7d8468e9030e89b25735249e9e5df858696423633",
+      "warnings": []
+    },
+    {
+      "name": "alibaba_domain",
+      "output_file": "alibaba_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/alibaba.json",
+      "source_json": "source-json/alibaba_domain.json",
+      "bytes": 3219,
+      "sha256": "ee36ba3d7ac1747b0eb78b3cdd232e02592dedaa7d088a6aa6213b69e7d6fda1",
+      "warnings": []
+    },
+    {
+      "name": "aliyun_domain",
+      "output_file": "aliyun_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/aliyun.json",
+      "source_json": "source-json/aliyun_domain.json",
+      "bytes": 764,
+      "sha256": "cc2c3be656b6974aa69464cfe643e8e8a6636e8f0d93d31856c0e3034a72dac5",
+      "warnings": []
+    },
+    {
+      "name": "anthropic_domain",
+      "output_file": "anthropic_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/anthropic.json",
+      "source_json": "source-json/anthropic_domain.json",
+      "bytes": 160,
+      "sha256": "419ee8fce7318fedab217591846515471e2f41cabb45843eb381a4f8879f0ba2",
+      "warnings": []
+    },
+    {
+      "name": "appleTV_domain",
+      "output_file": "appletv_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/appletv.yaml",
+      "source_json": "source-json/appletv_domain.json",
+      "bytes": 111,
+      "sha256": "891084f70dd19fce229448cf7542bc27060a04c07586228433ca8703e270e8c2",
+      "warnings": []
+    },
+    {
+      "name": "apple_cn_domain",
+      "output_file": "apple_cn_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/apple%40cn.json",
+      "source_json": "source-json/apple_cn_domain.json",
+      "bytes": 2251,
+      "sha256": "3e8c875a7d2da631d7a5f7db1952044715dc3ddc54aa4fd68c2b67560940f172",
+      "warnings": []
+    },
+    {
+      "name": "apple_domain",
+      "output_file": "apple_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/apple.json",
+      "source_json": "source-json/apple_domain.json",
+      "bytes": 15674,
+      "sha256": "7254f2b86631c23b2b9c9fbf0a60bca2bba79057a3af4839b1b7227cbb17d9d4",
+      "warnings": []
+    },
+    {
+      "name": "apple_firmware_domain",
+      "output_file": "apple_firmware_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/applefirmware.yaml",
+      "source_json": "source-json/apple_firmware_domain.json",
+      "bytes": 1807,
+      "sha256": "5669620230c2046126c0b4955cb31c6eddabf309d9cc45ff4785fd6656cfb98a",
+      "warnings": []
+    },
+    {
+      "name": "bahamut_domain",
+      "output_file": "bahamut_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/bahamut.json",
+      "source_json": "source-json/bahamut_domain.json",
+      "bytes": 121,
+      "sha256": "d19994012de6303e7aa1b2c18dc117613eaa117b0262dc7273e0bb0301fee907",
+      "warnings": []
+    },
+    {
+      "name": "banAd_domain",
+      "output_file": "banad_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/banAd.yaml",
+      "source_json": "source-json/banad_domain.json",
+      "bytes": 867252,
+      "sha256": "af0c2e3b45745ebf50dd039b1447a56c6836c095b0f157863ff280d304572a72",
+      "warnings": []
+    },
+    {
+      "name": "bank_cn_domain",
+      "output_file": "bank_cn_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-bank-cn.json",
+      "source_json": "source-json/bank_cn_domain.json",
+      "bytes": 418,
+      "sha256": "1e523b5cad07b29aba5ab0ce9454bae96bec6e7f446376d9f154a8b44c42d225",
+      "warnings": []
+    },
+    {
+      "name": "bilibili_domain",
+      "output_file": "bilibili_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/bilibili.json",
+      "source_json": "source-json/bilibili_domain.json",
+      "bytes": 463,
+      "sha256": "700772b66dd1e352572fd647d85d9bb491993ac91a87fda852a092576a9ba834",
+      "warnings": []
+    },
+    {
+      "name": "bilibili_ip",
+      "output_file": "bilibili_ip.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geoip/bilibili.json",
+      "source_json": "source-json/bilibili_ip.json",
+      "bytes": 70,
+      "sha256": "de61f5500c907125a6c5e1d2efd824e5cff6c8e52c04a7c388df892580e29632",
+      "warnings": []
+    },
+    {
+      "name": "biliintl_domain",
+      "output_file": "biliintl_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/bilibili%40!cn.json",
+      "source_json": "source-json/biliintl_domain.json",
+      "bytes": 115,
+      "sha256": "a53bcc8c008fb6a4a378f571f41dd8ef1405549bc75019627502d2ee05a501b7",
+      "warnings": []
+    },
+    {
+      "name": "cn_domain",
+      "output_file": "cn_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/cn.json",
+      "source_json": "source-json/cn_domain.json",
+      "bytes": 449874,
+      "sha256": "6c0f416a7dac483bb8345da2b16d82bf2786187cbe68410a906ead6bd1b043de",
+      "warnings": []
+    },
+    {
+      "name": "cn_ip",
+      "output_file": "cn_ip.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/cn.json",
+      "source_json": "source-json/cn_ip.json",
+      "bytes": 21901,
+      "sha256": "56637afc819c38f25b0369c1d4f0add28b063496a299be3e2bc1134f922e09d9",
+      "warnings": []
+    },
+    {
+      "name": "crypto_domain",
+      "output_file": "crypto_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-cryptocurrency.json",
+      "source_json": "source-json/crypto_domain.json",
+      "bytes": 2005,
+      "sha256": "6c0016ac8a0866649cca636470986661dfc199c246918eb388f3edcea7de704b",
+      "warnings": []
+    },
+    {
+      "name": "direct_domain",
+      "output_file": "direct_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/direct.yaml",
+      "source_json": "source-json/direct_domain.json",
+      "bytes": 595,
+      "sha256": "a3078131f522e8e6495ca09f7fa5214a2b1109b0f0a5500995e28a7e42f4f5a8",
+      "warnings": []
+    },
+    {
+      "name": "discord_asn",
+      "output_file": "discord_asn.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/IP/AS49544.yaml",
+      "source_json": "source-json/discord_asn.json",
+      "bytes": 603,
+      "sha256": "091906d4ac48e5940fd869c0606617fb7fdfc69c28ca98146aefe56025fb3430",
+      "warnings": []
+    },
+    {
+      "name": "discord_domain",
+      "output_file": "discord_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/discord.json",
+      "source_json": "source-json/discord_domain.json",
+      "bytes": 408,
+      "sha256": "3f39264d76fc6dbdb68e19bc3846b0267595cbc96022b814be97df8661281ffc",
+      "warnings": []
+    },
+    {
+      "name": "disney_domain",
+      "output_file": "disney_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/disney.json",
+      "source_json": "source-json/disney_domain.json",
+      "bytes": 1723,
+      "sha256": "16a5bfe261a1bf77286ae9ad2e9ef5ecceb137829ce8736961a26b0d90f81ded",
+      "warnings": []
+    },
+    {
+      "name": "ebay_domain",
+      "output_file": "ebay_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/ebay.json",
+      "source_json": "source-json/ebay_domain.json",
+      "bytes": 3077,
+      "sha256": "813d8e674c2958eb576db66bba9f13c1390efb9d36fb76952e9fd81a905bdcb7",
+      "warnings": []
+    },
+    {
+      "name": "emby_domain",
+      "output_file": "emby_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/emby.yaml",
+      "source_json": "source-json/emby_domain.json",
+      "bytes": 115,
+      "sha256": "8328e41baa8bf6d9259e32ebe2b7e5078a615e5444f8914180105b1061c352f3",
+      "warnings": []
+    },
+    {
+      "name": "emby_ip",
+      "output_file": "emby_ip.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/IP/emby-ip.yaml",
+      "source_json": "source-json/emby_ip.json",
+      "bytes": 74,
+      "sha256": "da783a22db179c84bdc1f3abba85c8628ed35a907885701ed1ef921480aacd10",
+      "warnings": []
+    },
+    {
+      "name": "facebook_domain",
+      "output_file": "facebook_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/facebook.json",
+      "source_json": "source-json/facebook_domain.json",
+      "bytes": 3084,
+      "sha256": "172a49d56b41a780133c86d5b1005b10085da444c031ed9e8e6f1fdf2cefed6b",
+      "warnings": []
+    },
+    {
+      "name": "facebook_ip",
+      "output_file": "facebook_ip.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/facebook.json",
+      "source_json": "source-json/facebook_ip.json",
+      "bytes": 526,
+      "sha256": "6f84d2e2223e8ae2aefc66e1a2abd5a08938fce7a3c962d6af24f45a4874ea4d",
+      "warnings": []
+    },
+    {
+      "name": "fakeip_fitter_domain",
+      "output_file": "fakeip_fitter_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/fakeip-filter.yaml",
+      "source_json": "source-json/fakeip_fitter_domain.json",
+      "bytes": 1058,
+      "sha256": "7d810958e1fa98a33ef99cc665372d5dc6b4a35be5a4b43baab0e5c48ce01646",
+      "warnings": []
+    },
+    {
+      "name": "fcm_domain",
+      "output_file": "fcm_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/googlefcm.json",
+      "source_json": "source-json/fcm_domain.json",
+      "bytes": 112,
+      "sha256": "e2fb6429bce37646b22820d0968378e71e517e5ba7ea1e9b8eb3ade098250492",
+      "warnings": []
+    },
+    {
+      "name": "game_cn_domain",
+      "output_file": "game_cn_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-games%40cn.json",
+      "source_json": "source-json/game_cn_domain.json",
+      "bytes": 605,
+      "sha256": "7d3f70aa7d95c92f5458e56935e5608d3a06f50103d8076ba0a5ba329d5e66c8",
+      "warnings": []
+    },
+    {
+      "name": "geolocation-!cn",
+      "output_file": "geolocation-not-cn.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
+      "source_json": "source-json/geolocation-not-cn.json",
+      "bytes": 164896,
+      "sha256": "b2b9bb12db9da64269f92807b43356ef78d1d48d5ae6093ad6b34be4f5f97921",
+      "warnings": []
+    },
+    {
+      "name": "gfw_domain",
+      "output_file": "gfw_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/gfw.json",
+      "source_json": "source-json/gfw_domain.json",
+      "bytes": 28146,
+      "sha256": "b20d53f5ea501136904ea52593c19b0364bd84225c390e1a180f03c34379f7bc",
+      "warnings": []
+    },
+    {
+      "name": "gitbook_domain",
+      "output_file": "gitbook_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/gitbook.json",
+      "source_json": "source-json/gitbook_domain.json",
+      "bytes": 60,
+      "sha256": "0b6464d3c03c41526f2388cc304c3373c0997d997b373a355de9e98f1be667f3",
+      "warnings": []
+    },
+    {
+      "name": "github_domain",
+      "output_file": "github_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/github.json",
+      "source_json": "source-json/github_domain.json",
+      "bytes": 768,
+      "sha256": "f3d062dd3e424bf11d72b86d916332e53d02d507672ad365e1e7182f31c61549",
+      "warnings": []
+    },
+    {
+      "name": "google_asn_cn",
+      "output_file": "google_asn_cn.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/IP/AS24424.yaml",
+      "source_json": "source-json/google_asn_cn.json",
+      "bytes": 46,
+      "sha256": "5893ca89d7c181dd29d25e889043510a7347a3f76e1614b5dd6644b7e9489a08",
+      "warnings": []
+    },
+    {
+      "name": "google_domain",
+      "output_file": "google_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/google.yaml",
+      "source_json": "source-json/google_domain.json",
+      "bytes": 7906,
+      "sha256": "da657e5b0de99c7438a70d96329e8bd1c5f7920a79e559ba84354b45005ee558",
+      "warnings": []
+    },
+    {
+      "name": "google_ip",
+      "output_file": "google_ip.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/google.json",
+      "source_json": "source-json/google_ip.json",
+      "bytes": 7441,
+      "sha256": "89ef47f349114e095b8169f229f38aaf9ad0b211fb41e0dc2ef88c9f034bc3eb",
+      "warnings": []
+    },
+    {
+      "name": "hbo_domain",
+      "output_file": "hbo_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/hbo.json",
+      "source_json": "source-json/hbo_domain.json",
+      "bytes": 607,
+      "sha256": "4da21c312b5bf62458ac21c03d1895b58fb9c1d9cb4865feefa75621aa2790cc",
+      "warnings": []
+    },
+    {
+      "name": "ifast_domain",
+      "output_file": "ifast_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/ifast.json",
+      "source_json": "source-json/ifast_domain.json",
+      "bytes": 209,
+      "sha256": "31be5f37d6aeef1a1cadebb74bd034854e6c0045b83b532855b42b0a95933b02",
+      "warnings": []
+    },
+    {
+      "name": "instagram_domain",
+      "output_file": "instagram_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/instagram.json",
+      "source_json": "source-json/instagram_domain.json",
+      "bytes": 720,
+      "sha256": "cc46bf785e3053cab4f3865fca7003d2a2c53cb8fdb4e271cd1cd9dfd4c8ec2f",
+      "warnings": []
+    },
+    {
+      "name": "iptv_domain",
+      "output_file": "iptv_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/iptv.yaml",
+      "source_json": "source-json/iptv_domain.json",
+      "bytes": 6652,
+      "sha256": "718910bc249c0866d87e1dd5d1de42ac4a4039f4ad437fc335e5233d8610c95f",
+      "warnings": []
+    },
+    {
+      "name": "line_domain",
+      "output_file": "line_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/line.json",
+      "source_json": "source-json/line_domain.json",
+      "bytes": 259,
+      "sha256": "9e27b73095026a86369d735366314331bb11153399f164c874b2c890eda0ac7b",
+      "warnings": []
+    },
+    {
+      "name": "media!cn_domain",
+      "output_file": "media-not-cn_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-social-media-!cn.json",
+      "source_json": "source-json/media-not-cn_domain.json",
+      "bytes": 4956,
+      "sha256": "14eadb16540f88324713f46be8cad8867e6766eaf3dc9baecdf251c8b59d47ac",
+      "warnings": []
+    },
+    {
+      "name": "media_cn_domain",
+      "output_file": "media_cn_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-media-cn.json",
+      "source_json": "source-json/media_cn_domain.json",
+      "bytes": 2459,
+      "sha256": "f9578737d8cc289ab59936139326bae0bf46f8ce79f297e9ff128850b8807ba8",
+      "warnings": []
+    },
+    {
+      "name": "meta_domain",
+      "output_file": "meta_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/meta.json",
+      "source_json": "source-json/meta_domain.json",
+      "bytes": 4296,
+      "sha256": "392fc770e0c3de556f640481b43f4c0d1489c71d3919c7303bc2877d85caf233",
+      "warnings": []
+    },
+    {
+      "name": "microsoft_domain",
+      "output_file": "microsoft_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/microsoft.json",
+      "source_json": "source-json/microsoft_domain.json",
+      "bytes": 6936,
+      "sha256": "24a2b2ec18963fe25a6e32e48d131ecab31e6d0ce08b462590842c213f18dc08",
+      "warnings": []
+    },
+    {
+      "name": "netflix_domain",
+      "output_file": "netflix_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/netflix.json",
+      "source_json": "source-json/netflix_domain.json",
+      "bytes": 344,
+      "sha256": "e96519073e561f06de021fa3af91e9969b68294339acd5bd1562f63f158f6af9",
+      "warnings": []
+    },
+    {
+      "name": "netflix_ip",
+      "output_file": "netflix_ip.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/netflix.json",
+      "source_json": "source-json/netflix_ip.json",
+      "bytes": 359,
+      "sha256": "255c8cf9843176bc37d6d4126c3c0eb12236b68a521f3fbf99576de0be10667c",
+      "warnings": []
+    },
+    {
+      "name": "onedrive_domain",
+      "output_file": "onedrive_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/onedrive.json",
+      "source_json": "source-json/onedrive_domain.json",
+      "bytes": 272,
+      "sha256": "763cf8a30395b40c5da3f52f3ae8770d5fa7364d50d728ea68bee48b5a66c2ac",
+      "warnings": []
+    },
+    {
+      "name": "openai_domain",
+      "output_file": "openai_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/openai.json",
+      "source_json": "source-json/openai_domain.json",
+      "bytes": 435,
+      "sha256": "12d5704b13d539ff3d43bf3560e773ded14a4c626d1d2bc8cdb18aa6a2a4de9e",
+      "warnings": []
+    },
+    {
+      "name": "paypal_domain",
+      "output_file": "paypal_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/paypal.json",
+      "source_json": "source-json/paypal_domain.json",
+      "bytes": 2340,
+      "sha256": "7a443793b73c7cb5fcf6a6df61881d39d40ef1a4c34df71d1bf3e7478868cc00",
+      "warnings": []
+    },
+    {
+      "name": "porn_domain",
+      "output_file": "porn_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
+      "source_json": "source-json/porn_domain.json",
+      "bytes": 43402,
+      "sha256": "8e2fed6dc02e02412e44e5127d139748cc3769887aaf552027339d197faf563c",
+      "warnings": []
+    },
+    {
+      "name": "primevideo_domain",
+      "output_file": "primevideo_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/primevideo.json",
+      "source_json": "source-json/primevideo_domain.json",
+      "bytes": 373,
+      "sha256": "ab2de8ec6404eb5e9babb5ee2d7ffb800362716cb6c9f82c5d6c5f5105b2c64b",
+      "warnings": []
+    },
+    {
+      "name": "private_domain",
+      "output_file": "private_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/private.json",
+      "source_json": "source-json/private_domain.json",
+      "bytes": 696,
+      "sha256": "346a45eab708517a8d43ccb886fc5e5f80f8f81c0e251435a68b9426d3587bf3",
+      "warnings": []
+    },
+    {
+      "name": "private_ip",
+      "output_file": "private_ip.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/private.json",
+      "source_json": "source-json/private_ip.json",
+      "bytes": 144,
+      "sha256": "283138b577e2d5d3bf65d4eb56599100957283aec4122fe45163692ed9210d58",
+      "warnings": []
+    },
+    {
+      "name": "proxy_domain",
+      "output_file": "proxy_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/proxy.yaml",
+      "source_json": "source-json/proxy_domain.json",
+      "bytes": 190,
+      "sha256": "2cf736ab82529952c9bc0e8ef75956185da10aa653fcf5b57fd7be98b03b2839",
+      "warnings": []
+    },
+    {
+      "name": "proxylite",
+      "output_file": "proxylite.srs",
+      "source_url": "https://raw.githubusercontent.com/sev7enshare/Clash-Config/refs/heads/main/list/proxy.list",
+      "source_json": "source-json/proxylite.json",
+      "bytes": 2087,
+      "sha256": "c2a320f814236a7f579240c5901f77e8a51a93f50e34fa5da6ece5c9220488ea",
+      "warnings": []
+    },
+    {
+      "name": "pt_cn_domain",
+      "output_file": "pt_cn_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-pt.json",
+      "source_json": "source-json/pt_cn_domain.json",
+      "bytes": 1006,
+      "sha256": "10f2b5107a2f932abc8411cc0bd008d4066ccf88a8af00c521226473050dd12a",
+      "warnings": []
+    },
+    {
+      "name": "public-tracker_domain",
+      "output_file": "public-tracker_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-public-tracker.json",
+      "source_json": "source-json/public-tracker_domain.json",
+      "bytes": 4509,
+      "sha256": "61beaf65384f483cf69f7582feb7c4c2592b249c195c00adb9bbd2a4b3b1707a",
+      "warnings": []
+    },
+    {
+      "name": "signal_domain",
+      "output_file": "signal_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/signal.json",
+      "source_json": "source-json/signal_domain.json",
+      "bytes": 134,
+      "sha256": "c145467f8b30bdd79f16cd6187fafb0065bddcd0694721e4dd1ba9e26772f8f2",
+      "warnings": []
+    },
+    {
+      "name": "speedtest_domain",
+      "output_file": "speedtest_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/ookla-speedtest.json",
+      "source_json": "source-json/speedtest_domain.json",
+      "bytes": 286,
+      "sha256": "439f0b07ac17a86eae1a55151cae0c06706fef453694e2113262f05216c33a5c",
+      "warnings": []
+    },
+    {
+      "name": "spotify_domain",
+      "output_file": "spotify_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/spotify.json",
+      "source_json": "source-json/spotify_domain.json",
+      "bytes": 399,
+      "sha256": "2c3a3c54fea35801a7cc419aa8b022c036b0071cf912a08b3bd7106cf04a1bb1",
+      "warnings": []
+    },
+    {
+      "name": "steam_cn_domain",
+      "output_file": "steam_cn_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/steam%40cn.json",
+      "source_json": "source-json/steam_cn_domain.json",
+      "bytes": 318,
+      "sha256": "96c6ba0bdb4e2350898127e6b8e976efb99f936b16a53e234702f864869a974a",
+      "warnings": []
+    },
+    {
+      "name": "steam_domain",
+      "output_file": "steam_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/steam.json",
+      "source_json": "source-json/steam_domain.json",
+      "bytes": 800,
+      "sha256": "2a2045e557ec35e16b48e7f0f5b0012df33df7b588b79f59750ca6376734bfc0",
+      "warnings": []
+    },
+    {
+      "name": "steamcdn_domain",
+      "output_file": "steamcdn_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/Steam-domain.yaml",
+      "source_json": "source-json/steamcdn_domain.json",
+      "bytes": 96,
+      "sha256": "d7b4f11057effe710719b497fb7f68fbfadc1fb0262016877b140e3540e3d27a",
+      "warnings": []
+    },
+    {
+      "name": "steamcdn_ip",
+      "output_file": "steamcdn_ip.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/IP/steamCDN-ip.yaml",
+      "source_json": "source-json/steamcdn_ip.json",
+      "bytes": 180,
+      "sha256": "00a6fae8370f9ed9c767a73da9374c6a25aa3509cbd779c96e1a2cc864cb453c",
+      "warnings": []
+    },
+    {
+      "name": "talkatone_domain",
+      "output_file": "talkatone_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/Talkatone-domain.yaml",
+      "source_json": "source-json/talkatone_domain.json",
+      "bytes": 163,
+      "sha256": "fad5d7771726c9a7581caea8c3627472693f18ba8a70f71752e759c5c1a8d1eb",
+      "warnings": []
+    },
+    {
+      "name": "talkatone_ip",
+      "output_file": "talkatone_ip.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/IP/Talkatone-ip.yaml",
+      "source_json": "source-json/talkatone_ip.json",
+      "bytes": 65,
+      "sha256": "0cb543a48a486b3f5656a2ddc90736ae6107f353393359edf0329c95ee9e1af7",
+      "warnings": []
+    },
+    {
+      "name": "telegram_domain",
+      "output_file": "telegram_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/telegram.json",
+      "source_json": "source-json/telegram_domain.json",
+      "bytes": 248,
+      "sha256": "f96bba017b981fd03fdc6b17eef3454aca796ca85a5a04222260247e2b594e9d",
+      "warnings": []
+    },
+    {
+      "name": "telegram_ip",
+      "output_file": "telegram_ip.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/telegram.json",
+      "source_json": "source-json/telegram_ip.json",
+      "bytes": 127,
+      "sha256": "f2ebacf53d10abca41e59f350242b260582b1a0303e0567cb02a95fda7e19f54",
+      "warnings": []
+    },
+    {
+      "name": "threads_domain",
+      "output_file": "threads_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/threads.json",
+      "source_json": "source-json/threads_domain.json",
+      "bytes": 65,
+      "sha256": "b4fbf9943a59242620ff32ee0951313e38fdb0272c5d6189a90dfb07426a3591",
+      "warnings": []
+    },
+    {
+      "name": "tiktok_domain",
+      "output_file": "tiktok_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/tiktok.json",
+      "source_json": "source-json/tiktok_domain.json",
+      "bytes": 456,
+      "sha256": "23b9ecda9f3ad9e1d8eaac7e168a7960d88df104e4cd397c72101912138dc82d",
+      "warnings": []
+    },
+    {
+      "name": "twitch_domain",
+      "output_file": "twitch_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/twitch.json",
+      "source_json": "source-json/twitch_domain.json",
+      "bytes": 419,
+      "sha256": "04eb925133c5aecd57066b85a3e99aa6b0a02f2c1bb84eae02f4183c36de07a1",
+      "warnings": []
+    },
+    {
+      "name": "twitter_ip",
+      "output_file": "twitter_ip.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/twitter.json",
+      "source_json": "source-json/twitter_ip.json",
+      "bytes": 203,
+      "sha256": "f572b88a263ecf3385e25fd6213bcf83eef3711ecd12a932fed949cd85d49836",
+      "warnings": []
+    },
+    {
+      "name": "wechat_asn",
+      "output_file": "wechat_asn.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/IP/AS132203.yaml",
+      "source_json": "source-json/wechat_asn.json",
+      "bytes": 503,
+      "sha256": "6eb241b654e15d355ab74052dad7bc7e0e44d7c152a0c2374ce05480408bcff8",
+      "warnings": []
+    },
+    {
+      "name": "wechat_domain",
+      "output_file": "wechat_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/WeChat.yaml",
+      "source_json": "source-json/wechat_domain.json",
+      "bytes": 335,
+      "sha256": "ef078dd4e08d57c649d89acd62bc552319a9ce6fa19050c763a9d6458255c53c",
+      "warnings": []
+    },
+    {
+      "name": "whatsapp_domain",
+      "output_file": "whatsapp_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/whatsapp.json",
+      "source_json": "source-json/whatsapp_domain.json",
+      "bytes": 194,
+      "sha256": "47a4c247d4ba42a78a80a818bc5c56be6f5f9dd277691af6086fb6807f112667",
+      "warnings": []
+    },
+    {
+      "name": "xiaomi_domain",
+      "output_file": "xiaomi_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/xiaomi.json",
+      "source_json": "source-json/xiaomi_domain.json",
+      "bytes": 647,
+      "sha256": "f4f36e8adb1138a072c264d0c56aaba2c0f1c1db7913fcbfec412eb91e432fee",
+      "warnings": []
+    },
+    {
+      "name": "youtube_domain",
+      "output_file": "youtube_domain.srs",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/youtube.json",
+      "source_json": "source-json/youtube_domain.json",
+      "bytes": 1144,
+      "sha256": "b1391683af72c6e3f730e1192eaf08e89c46b6e8f4edcb3432eb2e372312a8d8",
+      "warnings": []
+    }
+  ],
+  "failed": []
+}

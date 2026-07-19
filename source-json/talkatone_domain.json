@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "tktn.at",
+        "tktn.be",
+        "vm.talkatone.com",
+        "agkn.com",
+        "cohere.com",
+        "crashlytics.com",
+        "inmobi.com",
+        "inner-active.mobi",
+        "ip-api.com",
+        "kochava.com",
+        "mobilefuse.com",
+        "talkatone.com"
+      ]
+    }
+  ]
+}

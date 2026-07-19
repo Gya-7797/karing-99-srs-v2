@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "ouochat.nloli.xyz"
+      ],
+      "domain_suffix": [
+        "oochat.space"
+      ]
+    }
+  ]
+}

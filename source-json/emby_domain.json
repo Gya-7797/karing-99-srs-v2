@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "aikan.cloud",
+        "aikan.la",
+        "cavps.eu.org",
+        "emby.aikan.cloud",
+        "emby.aikan.la",
+        "emby.haitunt.org",
+        "random.ouonet.org"
+      ]
+    }
+  ]
+}

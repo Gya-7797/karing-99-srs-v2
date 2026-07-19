@@ -1,0 +1,28 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "digvps.com",
+        "duangks.com",
+        "qichiyu.com",
+        "services.googleapis.cn",
+        "xn--ngstr-lra8j.com"
+      ],
+      "domain_suffix": [
+        "compose-spec.io",
+        "digvps.com",
+        "dl.google.com",
+        "docker.com",
+        "docker.io",
+        "ify.ac",
+        "modsfire.com",
+        "nic.eu.org",
+        "pexels.com",
+        "qichiyu.com",
+        "services.googleapis.cn",
+        "xn--ngstr-lra8j.com"
+      ]
+    }
+  ]
+}
