@@ -114736,7 +114736,7 @@
         "^ad.*\\.on\\.cc$",
         "^ad\\-host\\-backup\\-.*\\.aliyuncs\\.com$",
         "^adi.*\\.cnool\\.net$",
-        "^ads(?>.*?\\-normal).*\\.zijieapi\\.com$",
+        "^ads.*\\-normal.*\\.zijieapi\\.com$",
         "^ads.*\\.depositfiles\\.com$",
         "^ads.*\\.depositfiles\\.org$",
         "^ads.*\\.dfiles\\.eu$",
