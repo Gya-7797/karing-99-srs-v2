@@ -203,8 +203,8 @@
       "output_file": "alibaba_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/alibaba.json",
       "source_json": "source-json/alibaba_domain.json",
-      "bytes": 3219,
-      "sha256": "ee36ba3d7ac1747b0eb78b3cdd232e02592dedaa7d088a6aa6213b69e7d6fda1",
+      "bytes": 3229,
+      "sha256": "368ded8da0b68f7646ed22a826aeb275e8344710dc122d21be0e911b3d4fad4b",
       "warnings": []
     },
     {
@@ -275,8 +275,8 @@
       "output_file": "banad_domain_re2.srs",
       "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/banAd.yaml",
       "source_json": "source-json/banad_domain_re2.json",
-      "bytes": 869635,
-      "sha256": "8864965b8e1205b9a232bd0b2fda0311d7fdeb2144a866d84e7679e737f90d2c",
+      "bytes": 871339,
+      "sha256": "87d893f8a4a6ba300385b34e3bd98f2d17525012b6ad36cf47419aa979af834c",
       "warnings": []
     },
     {
@@ -320,8 +320,8 @@
       "output_file": "cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/cn.json",
       "source_json": "source-json/cn_domain.json",
-      "bytes": 449816,
-      "sha256": "6390e2840fee83eba00f5c97b112f4384a3de9dfb375a59ae332b65d81bc9d87",
+      "bytes": 450201,
+      "sha256": "45b8bc6f74c9cf344c56ed266e0c910b7210c5655c8ab7105450048e0664b1af",
       "warnings": []
     },
     {
@@ -455,8 +455,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 164956,
-      "sha256": "82e714f41d85d628313e0ac74ab8aee84b1aaf7af1cb3b5515ceaf1873023eb1",
+      "bytes": 164901,
+      "sha256": "bfb071e38aae8915c5e90e65e5ec484bc5e9bced3d5cef7a97811e531a531113",
       "warnings": []
     },
     {
@@ -464,8 +464,8 @@
       "output_file": "gfw_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/gfw.json",
       "source_json": "source-json/gfw_domain.json",
-      "bytes": 28184,
-      "sha256": "cd8e4bdf81b2e2112b5c0b828014964dbb92cc29ae8f1098d7573b3cbb7c8fe2",
+      "bytes": 28176,
+      "sha256": "a91f028000660fa166eae1a7a19ce9c99806ad286bb521823fd7091b4b2fa208",
       "warnings": []
     },
     {
@@ -572,8 +572,8 @@
       "output_file": "media_cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-media-cn.json",
       "source_json": "source-json/media_cn_domain.json",
-      "bytes": 2459,
-      "sha256": "f9578737d8cc289ab59936139326bae0bf46f8ce79f297e9ff128850b8807ba8",
+      "bytes": 2500,
+      "sha256": "19ea66a89f069f116855f2938cab3aa651ce653e2618115fabd0da1e775ea591",
       "warnings": []
     },
     {
