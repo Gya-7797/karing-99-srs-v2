@@ -275,8 +275,8 @@
       "output_file": "banad_domain_re2.srs",
       "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/banAd.yaml",
       "source_json": "source-json/banad_domain_re2.json",
-      "bytes": 876502,
-      "sha256": "50650b8ecc154a203cdd51bf3adf8f86747fba22f0bb456af0acb129ca37ddf3",
+      "bytes": 878795,
+      "sha256": "acc70dca5885a7e8c36ef75bdbe4196a1f3a0c1594cbe945312b820b6ebc63da",
       "warnings": []
     },
     {
@@ -455,8 +455,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 164985,
-      "sha256": "d24bf0947421299d47eb89f58bbc7f98fe413ddd296a039b6e04d5c82ec79914",
+      "bytes": 164983,
+      "sha256": "a9f583aaa0d536ee875b1aa75eed71f48d54aed91ecea01a91c99eda7e2de7fa",
       "warnings": []
     },
     {
@@ -464,8 +464,8 @@
       "output_file": "gfw_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/gfw.json",
       "source_json": "source-json/gfw_domain.json",
-      "bytes": 28168,
-      "sha256": "0d1d6cc440e7f6dfd725b6ddd919d1ba74397e35f411e0e0d4e5b3aef850c752",
+      "bytes": 28210,
+      "sha256": "053d1d1fe338401e9c156348b64018c2aa3f14a4d57c0c6611d4dde35e87cb3b",
       "warnings": []
     },
     {
