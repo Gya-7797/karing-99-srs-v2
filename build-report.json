@@ -176,8 +176,8 @@
       "output_file": "ai-not-cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-ai-!cn.json",
       "source_json": "source-json/ai-not-cn_domain.json",
-      "bytes": 1718,
-      "sha256": "41ae2079ac5a06b029ccfcc257e775399a5e5debe17559fb0454beae47012f05",
+      "bytes": 1730,
+      "sha256": "6283408e63be9033d91b78bbb9f6ef801cd4596e1c3f51f78097e104bd6d9f39",
       "warnings": []
     },
     {
@@ -275,8 +275,8 @@
       "output_file": "banad_domain_re2.srs",
       "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/banAd.yaml",
       "source_json": "source-json/banad_domain_re2.json",
-      "bytes": 885161,
-      "sha256": "89fa081212a084b2ae1986c9241253eca7c47d7de713ba8f996d1dafa609f797",
+      "bytes": 901632,
+      "sha256": "2b7d9ad8365e24c260d9307acf93b84825a00994b38dc53d7814699ccb724ae4",
       "warnings": []
     },
     {
@@ -329,8 +329,8 @@
       "output_file": "cn_ip.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/cn.json",
       "source_json": "source-json/cn_ip.json",
-      "bytes": 21855,
-      "sha256": "bb6801ad9e54beae4d75e788e7a5be25c5a27ebed69d2c9912189e6ed9004e07",
+      "bytes": 21839,
+      "sha256": "50ac0181688ab247fe3f1bcb1cb45d84e83857b50e645de4030fd68d4a693e1b",
       "warnings": []
     },
     {
@@ -420,7 +420,7 @@
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/facebook.json",
       "source_json": "source-json/facebook_ip.json",
       "bytes": 526,
-      "sha256": "ec2ce01b8ff81fe1fe3d1c382e878de29712b2a4f94e429607ac73f7f919ea7c",
+      "sha256": "6f84d2e2223e8ae2aefc66e1a2abd5a08938fce7a3c962d6af24f45a4874ea4d",
       "warnings": []
     },
     {
@@ -455,8 +455,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 164984,
-      "sha256": "aa763499e577ed3a977aab08b67bdec969ff0d7f93a158f587bccebcf8cff22f",
+      "bytes": 165076,
+      "sha256": "7169a0c557580ea69c40353ffcaef8f7d7e5807ee05e42342986eda73d01d431",
       "warnings": []
     },
     {
@@ -509,8 +509,8 @@
       "output_file": "google_ip.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/google.json",
       "source_json": "source-json/google_ip.json",
-      "bytes": 7563,
-      "sha256": "fc7a65d9a038512bed415470be3327fbaa5a5f1d18173fcebd96983cda10de7c",
+      "bytes": 7650,
+      "sha256": "548134cb45d9ae9548ff35c46b92cd723a915f88c9d73cc2e3424b3180f1f579",
       "warnings": []
     },
     {
@@ -608,8 +608,8 @@
       "output_file": "netflix_ip.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/netflix.json",
       "source_json": "source-json/netflix_ip.json",
-      "bytes": 359,
-      "sha256": "255c8cf9843176bc37d6d4126c3c0eb12236b68a521f3fbf99576de0be10667c",
+      "bytes": 361,
+      "sha256": "97bb9584ef00f869799330b4af8a80939e03287d2f861562ce2c241ec911ed73",
       "warnings": []
     },
     {
