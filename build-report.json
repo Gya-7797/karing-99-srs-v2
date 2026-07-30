@@ -275,8 +275,8 @@
       "output_file": "banad_domain_re2.srs",
       "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/banAd.yaml",
       "source_json": "source-json/banad_domain_re2.json",
-      "bytes": 901632,
-      "sha256": "2b7d9ad8365e24c260d9307acf93b84825a00994b38dc53d7814699ccb724ae4",
+      "bytes": 888882,
+      "sha256": "e7cf5ecc8aa047b6e05bdba8f0c03d51257f8192e99915126c7a26b837175498",
       "warnings": []
     },
     {
@@ -320,8 +320,8 @@
       "output_file": "cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/cn.json",
       "source_json": "source-json/cn_domain.json",
-      "bytes": 450090,
-      "sha256": "04bad05be245f5336497b4c3e2ae458cd359393ccdf19e54c1c8046b39a439b1",
+      "bytes": 450045,
+      "sha256": "72240c5beb77f2288bae2ba86eebaeb051ed5902e4e0c02ebaa302b4585ebd74",
       "warnings": []
     },
     {
@@ -329,8 +329,8 @@
       "output_file": "cn_ip.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/cn.json",
       "source_json": "source-json/cn_ip.json",
-      "bytes": 21839,
-      "sha256": "50ac0181688ab247fe3f1bcb1cb45d84e83857b50e645de4030fd68d4a693e1b",
+      "bytes": 21899,
+      "sha256": "3f978542f1410f9f05675b8c43dcfd86b48e9792171b0a54d551734c8ea0c626",
       "warnings": []
     },
     {
@@ -420,7 +420,7 @@
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/facebook.json",
       "source_json": "source-json/facebook_ip.json",
       "bytes": 526,
-      "sha256": "6f84d2e2223e8ae2aefc66e1a2abd5a08938fce7a3c962d6af24f45a4874ea4d",
+      "sha256": "00e44bb0b21e5313b5b7c2d75393138b9d6b5fd8c24611e0a49c0b7db7f8572a",
       "warnings": []
     },
     {
@@ -509,8 +509,8 @@
       "output_file": "google_ip.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/google.json",
       "source_json": "source-json/google_ip.json",
-      "bytes": 7650,
-      "sha256": "548134cb45d9ae9548ff35c46b92cd723a915f88c9d73cc2e3424b3180f1f579",
+      "bytes": 7663,
+      "sha256": "4bf2d49bc0041c8e26e33f8f37fe21cc8fd078a256bfa2095bc453f50c8d6278",
       "warnings": []
     },
     {
@@ -645,7 +645,7 @@
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
       "bytes": 43401,
-      "sha256": "f819f985f3304c88c19a1d8820593addce112b1e883e8d360c599a9f0d9977e3",
+      "sha256": "fc679130be66f43a4ca6509cac043190dfad0afcf6d96bfc5dddbb94a47f6193",
       "warnings": []
     },
     {
