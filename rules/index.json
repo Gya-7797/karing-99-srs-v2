@@ -1,7 +1,7 @@
 {
   "version": 1,
   "count": 99,
-  "generated_at_utc": "2026-07-30T06:41:26Z",
+  "generated_at_utc": "2026-07-31T07:13:59Z",
   "rules": [
     {
       "name": "115_domain",
@@ -228,8 +228,8 @@
       "output_file": "alibaba_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/alibaba.json",
       "source_json": "source-json/alibaba_domain.json",
-      "bytes": 3229,
-      "sha256": "368ded8da0b68f7646ed22a826aeb275e8344710dc122d21be0e911b3d4fad4b",
+      "bytes": 3325,
+      "sha256": "596f4ac0cd4fa436725587c9438dead3db21d5357bdda865ea78278ae35c336c",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/alibaba_domain.srs"
     },
@@ -308,8 +308,8 @@
       "output_file": "banad_domain_re2.srs",
       "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/banAd.yaml",
       "source_json": "source-json/banad_domain_re2.json",
-      "bytes": 888882,
-      "sha256": "e7cf5ecc8aa047b6e05bdba8f0c03d51257f8192e99915126c7a26b837175498",
+      "bytes": 890556,
+      "sha256": "8fa036e4f2ecf9c0b443ff65bbe680e67b192481fde6dbfbd705e2d329f5432e",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/banad_domain_re2.srs"
     },
@@ -508,8 +508,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 165076,
-      "sha256": "7169a0c557580ea69c40353ffcaef8f7d7e5807ee05e42342986eda73d01d431",
+      "bytes": 165093,
+      "sha256": "dec1ecee240e367f4529f922806b215c87d2b0b2abfa14d2679f79b223138a04",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/geolocation-not-cn.srs"
     },
@@ -518,8 +518,8 @@
       "output_file": "gfw_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/gfw.json",
       "source_json": "source-json/gfw_domain.json",
-      "bytes": 28187,
-      "sha256": "6c09957cca1ceadfcf8fb2675a7f166716d31117da53e2e96684bd1f4827dc90",
+      "bytes": 28230,
+      "sha256": "e3722d096dfa4ea23140937a9b7125177c110a236e4ff891a45be1ee86a95bbd",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/gfw_domain.srs"
     },
@@ -638,8 +638,8 @@
       "output_file": "media_cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-media-cn.json",
       "source_json": "source-json/media_cn_domain.json",
-      "bytes": 2500,
-      "sha256": "19ea66a89f069f116855f2938cab3aa651ce653e2618115fabd0da1e775ea591",
+      "bytes": 2544,
+      "sha256": "457558308d0ec8126203480a26b74266aa8112e8ebdbcacb42746dc0540b90e0",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/media_cn_domain.srs"
     },
@@ -718,8 +718,8 @@
       "output_file": "porn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
-      "bytes": 43401,
-      "sha256": "fc679130be66f43a4ca6509cac043190dfad0afcf6d96bfc5dddbb94a47f6193",
+      "bytes": 43402,
+      "sha256": "52a5e507f90bd24c4d5936d4251106fec3ed37ff1d865fc65da64ddda50c01ec",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/porn_domain.srs"
     },
@@ -778,8 +778,8 @@
       "output_file": "pt_cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-pt.json",
       "source_json": "source-json/pt_cn_domain.json",
-      "bytes": 1006,
-      "sha256": "10f2b5107a2f932abc8411cc0bd008d4066ccf88a8af00c521226473050dd12a",
+      "bytes": 1034,
+      "sha256": "e5b3a08f748499d01838f3cb35f4eaf8e70a10be5a8718b1726b06bea31245cd",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/pt_cn_domain.srs"
     },
