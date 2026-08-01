@@ -1,7 +1,7 @@
 {
   "version": 1,
   "count": 99,
-  "generated_at_utc": "2026-07-31T07:13:59Z",
+  "generated_at_utc": "2026-08-01T06:40:34Z",
   "rules": [
     {
       "name": "115_domain",
@@ -208,8 +208,8 @@
       "output_file": "ai_cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-ai-cn.json",
       "source_json": "source-json/ai_cn_domain.json",
-      "bytes": 958,
-      "sha256": "204c026855e4a3a2dd178c72223cafc52b783279dd2c5fb2684882422dc003fe",
+      "bytes": 960,
+      "sha256": "7840175fb1d1c5925e03f9525db416eba2b8ef9ad08dda1beab953d12ac7d915",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/ai_cn_domain.srs"
     },
@@ -308,8 +308,8 @@
       "output_file": "banad_domain_re2.srs",
       "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/banAd.yaml",
       "source_json": "source-json/banad_domain_re2.json",
-      "bytes": 890556,
-      "sha256": "8fa036e4f2ecf9c0b443ff65bbe680e67b192481fde6dbfbd705e2d329f5432e",
+      "bytes": 892939,
+      "sha256": "1c0bd1269bf6b1e96b1dba40a45fce0179ed1d9f522b68af65790de09a9b636b",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/banad_domain_re2.srs"
     },
@@ -358,8 +358,8 @@
       "output_file": "cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/cn.json",
       "source_json": "source-json/cn_domain.json",
-      "bytes": 450045,
-      "sha256": "72240c5beb77f2288bae2ba86eebaeb051ed5902e4e0c02ebaa302b4585ebd74",
+      "bytes": 448845,
+      "sha256": "73f16b6c3d6ee4610e7e3eeb949957fc5f8ba3ca4837fd860bebd4eb3da86259",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/cn_domain.srs"
     },
@@ -719,7 +719,7 @@
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
       "bytes": 43402,
-      "sha256": "52a5e507f90bd24c4d5936d4251106fec3ed37ff1d865fc65da64ddda50c01ec",
+      "sha256": "8e2fed6dc02e02412e44e5127d139748cc3769887aaf552027339d197faf563c",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/porn_domain.srs"
     },
