@@ -203,8 +203,8 @@
       "output_file": "alibaba_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/alibaba.json",
       "source_json": "source-json/alibaba_domain.json",
-      "bytes": 3325,
-      "sha256": "596f4ac0cd4fa436725587c9438dead3db21d5357bdda865ea78278ae35c336c",
+      "bytes": 3342,
+      "sha256": "69eea644e581b5a8c882ea7a9585538e43013e08d2cab8dacb114bf29ecf6300",
       "warnings": []
     },
     {
@@ -212,8 +212,8 @@
       "output_file": "aliyun_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/aliyun.json",
       "source_json": "source-json/aliyun_domain.json",
-      "bytes": 764,
-      "sha256": "cc2c3be656b6974aa69464cfe643e8e8a6636e8f0d93d31856c0e3034a72dac5",
+      "bytes": 799,
+      "sha256": "9dd927fb1b2067b88a79cdeebef8501314edc924fc9acdbd5b7d96ab1aed2068",
       "warnings": []
     },
     {
@@ -275,8 +275,8 @@
       "output_file": "banad_domain_re2.srs",
       "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/banAd.yaml",
       "source_json": "source-json/banad_domain_re2.json",
-      "bytes": 905131,
-      "sha256": "be98d705b4dd8099c2697dea4dcc36f89e4d2a3da6dfa8d456602628024133be",
+      "bytes": 906752,
+      "sha256": "aad0e9ced96649779c6949d8fd516347be386efb99bbff9d3b10a8e92874bc50",
       "warnings": []
     },
     {
@@ -320,8 +320,8 @@
       "output_file": "cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/cn.json",
       "source_json": "source-json/cn_domain.json",
-      "bytes": 447396,
-      "sha256": "ca8c039b3509c1ef1f46389508b3c8ef5ad9f7b96d3e9c5766448959837f8131",
+      "bytes": 447332,
+      "sha256": "fc4b67e96dcaf981a3a1683ff949d64260b757e94c987a7d870b0784721d7ffc",
       "warnings": []
     },
     {
