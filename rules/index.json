@@ -1,7 +1,7 @@
 {
   "version": 1,
   "count": 99,
-  "generated_at_utc": "2026-08-14T05:46:07Z",
+  "generated_at_utc": "2026-08-15T04:46:53Z",
   "rules": [
     {
       "name": "115_domain",
@@ -308,8 +308,8 @@
       "output_file": "banad_domain_re2.srs",
       "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/banAd.yaml",
       "source_json": "source-json/banad_domain_re2.json",
-      "bytes": 838976,
-      "sha256": "631d7ba5e3d3fe645d61c1298f0bf43fee950619ab86c024c7f2a8546c1b6acd",
+      "bytes": 841127,
+      "sha256": "7b4a0f62afd7fc13f90c02fc5c327f06955eb15c793041b03d03165c4e989093",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/banad_domain_re2.srs"
     },
@@ -718,8 +718,8 @@
       "output_file": "porn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
-      "bytes": 43418,
-      "sha256": "246699cde9b1d5eec59bb52b4878a53de972db58711f025b2524c3786faa3b6a",
+      "bytes": 43417,
+      "sha256": "db97021b61c8bfdaf59b434526ab60867d0922c5c135497f31ec46d1ef493943",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/porn_domain.srs"
     },
