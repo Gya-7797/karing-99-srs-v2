@@ -275,8 +275,8 @@
       "output_file": "banad_domain_re2.srs",
       "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/banAd.yaml",
       "source_json": "source-json/banad_domain_re2.json",
-      "bytes": 845396,
-      "sha256": "d1dc8966f121f25c926bca4430ab5e63e283666f00302b14afab0f59193742d0",
+      "bytes": 838466,
+      "sha256": "99a67ce45907f87cd1048dbdcb47f9a4390196506d3754df18ca5d0185561b67",
       "warnings": []
     },
     {
@@ -320,8 +320,8 @@
       "output_file": "cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/cn.json",
       "source_json": "source-json/cn_domain.json",
-      "bytes": 447412,
-      "sha256": "5a5f9abe57e1c405ef39f7ba4d2e338aff7f06f2a11a35a433adf9913d9a3391",
+      "bytes": 447424,
+      "sha256": "5012948a968ac70993cf2f567c850068d4a303374642bff66829dc52e0150bf5",
       "warnings": []
     },
     {
@@ -447,7 +447,7 @@
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-games%40cn.json",
       "source_json": "source-json/game_cn_domain.json",
       "bytes": 605,
-      "sha256": "7d3f70aa7d95c92f5458e56935e5608d3a06f50103d8076ba0a5ba329d5e66c8",
+      "sha256": "e6337801a3f3547059abe41ab67c1fb594ccfd874f8c77f4f608b3ab74699b42",
       "warnings": []
     },
     {
@@ -464,8 +464,8 @@
       "output_file": "gfw_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/gfw.json",
       "source_json": "source-json/gfw_domain.json",
-      "bytes": 28260,
-      "sha256": "5b6e3cee2fa0358e9dbaf4029637f9ccec921032d7ba030d8688ac8499b1b313",
+      "bytes": 28275,
+      "sha256": "0eb29f8428a945ce7561bec962801d5c19fd6cd74374a0605f78602f10d6d522",
       "warnings": []
     },
     {
@@ -645,7 +645,7 @@
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
       "bytes": 43416,
-      "sha256": "82b01c8bbc70a4661b3a6832cc42769c6412a6171db6abcf9df0d5fdd7e3b88a",
+      "sha256": "6d6256b4a62120b5a93970d8cdbf848abf9bca2d80cfc382c12a4b5a806af924",
       "warnings": []
     },
     {
