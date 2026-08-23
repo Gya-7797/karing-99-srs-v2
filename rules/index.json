@@ -1,7 +1,7 @@
 {
   "version": 1,
   "count": 99,
-  "generated_at_utc": "2026-08-22T04:48:46Z",
+  "generated_at_utc": "2026-08-23T04:52:14Z",
   "rules": [
     {
       "name": "115_domain",
@@ -508,8 +508,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 165839,
-      "sha256": "b885eba67a020495c5f4e62814ccd6a06e79fe24820d23930333801fde5cbf02",
+      "bytes": 165776,
+      "sha256": "e9758049e2306caf5670fdd3169c595f3816d51dc60f834526aa7da0c86b6509",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/geolocation-not-cn.srs"
     },
@@ -518,8 +518,8 @@
       "output_file": "gfw_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/gfw.json",
       "source_json": "source-json/gfw_domain.json",
-      "bytes": 28257,
-      "sha256": "9da950bf0e7cc25c7d3aad05ff746341d2d8a337363a5697911f6eccd0a060a4",
+      "bytes": 28274,
+      "sha256": "cc34d4235470292d7fe1e6a17e11f01d9479c2c999dc0d8519669de23f1f4b94",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/gfw_domain.srs"
     },
@@ -718,8 +718,8 @@
       "output_file": "porn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
-      "bytes": 43417,
-      "sha256": "db97021b61c8bfdaf59b434526ab60867d0922c5c135497f31ec46d1ef493943",
+      "bytes": 43418,
+      "sha256": "246699cde9b1d5eec59bb52b4878a53de972db58711f025b2524c3786faa3b6a",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/porn_domain.srs"
     },
