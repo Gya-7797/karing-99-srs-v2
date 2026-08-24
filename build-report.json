@@ -275,8 +275,8 @@
       "output_file": "banad_domain_re2.srs",
       "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/banAd.yaml",
       "source_json": "source-json/banad_domain_re2.json",
-      "bytes": 861815,
-      "sha256": "9320a9366c800e32bcb42da074ca31be6a9bde6759db4021a22adaf200208c88",
+      "bytes": 864362,
+      "sha256": "ba614a7cd84bde60b2e1a3621d562d024e27752fd2c82570d06bb3e151c7550d",
       "warnings": []
     },
     {
@@ -447,7 +447,7 @@
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-games%40cn.json",
       "source_json": "source-json/game_cn_domain.json",
       "bytes": 584,
-      "sha256": "8e31db135ff579e6859d9373320a86c725da8860f7d3dc1737754eee6597e53e",
+      "sha256": "8300c5712c371124e225a83629f6f2bdd5a31e0e5ed24ea5f8937609866c9496",
       "warnings": []
     },
     {
@@ -455,8 +455,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 165776,
-      "sha256": "e9758049e2306caf5670fdd3169c595f3816d51dc60f834526aa7da0c86b6509",
+      "bytes": 165851,
+      "sha256": "0830afe5764b5bce53f3b4f3a0b28dfb7385c2b069f78e5da688545c57b86c30",
       "warnings": []
     },
     {
@@ -464,8 +464,8 @@
       "output_file": "gfw_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/gfw.json",
       "source_json": "source-json/gfw_domain.json",
-      "bytes": 28274,
-      "sha256": "cc34d4235470292d7fe1e6a17e11f01d9479c2c999dc0d8519669de23f1f4b94",
+      "bytes": 28291,
+      "sha256": "22832e63c288400a50e4e45f60f115351e800ead132e9151fd93bd936f1472f7",
       "warnings": []
     },
     {
@@ -644,8 +644,8 @@
       "output_file": "porn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
-      "bytes": 43418,
-      "sha256": "246699cde9b1d5eec59bb52b4878a53de972db58711f025b2524c3786faa3b6a",
+      "bytes": 43417,
+      "sha256": "e072747dee9bf4b6fcee8df3d9a166178bf575cd6af42da19c70e666034e852e",
       "warnings": []
     },
     {
