@@ -275,8 +275,8 @@
       "output_file": "banad_domain_re2.srs",
       "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/banAd.yaml",
       "source_json": "source-json/banad_domain_re2.json",
-      "bytes": 860359,
-      "sha256": "e86596d4c242664ab41215c79e7a799f17ab4b675e5e19313224ad1589e0856c",
+      "bytes": 861439,
+      "sha256": "ceac98e9215729190ab38c8e2fba8b8f8e721fdb1af23f40f857a355bff3870b",
       "warnings": []
     },
     {
@@ -320,8 +320,8 @@
       "output_file": "cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/cn.json",
       "source_json": "source-json/cn_domain.json",
-      "bytes": 447424,
-      "sha256": "5012948a968ac70993cf2f567c850068d4a303374642bff66829dc52e0150bf5",
+      "bytes": 447821,
+      "sha256": "9e3c5651df0586edd9c427a6b96932f6247b2b0886a4ff9a47f53207c7f4e6f3",
       "warnings": []
     },
     {
@@ -447,7 +447,7 @@
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-games%40cn.json",
       "source_json": "source-json/game_cn_domain.json",
       "bytes": 584,
-      "sha256": "8e31db135ff579e6859d9373320a86c725da8860f7d3dc1737754eee6597e53e",
+      "sha256": "8300c5712c371124e225a83629f6f2bdd5a31e0e5ed24ea5f8937609866c9496",
       "warnings": []
     },
     {
@@ -455,8 +455,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 165851,
-      "sha256": "0830afe5764b5bce53f3b4f3a0b28dfb7385c2b069f78e5da688545c57b86c30",
+      "bytes": 165875,
+      "sha256": "21001a9cb33737229b7e378d0b837ece07853364cb4686e0d240e4c7ca5a7072",
       "warnings": []
     },
     {
@@ -689,8 +689,8 @@
       "output_file": "proxylite.srs",
       "source_url": "https://raw.githubusercontent.com/sev7enshare/Clash-Config/refs/heads/main/list/proxy.list",
       "source_json": "source-json/proxylite.json",
-      "bytes": 2091,
-      "sha256": "d4ca8b896d77a53429c91a6fa2359a7a169ae2a46756d751a450a5e84fb325da",
+      "bytes": 2072,
+      "sha256": "1a7356f8f5847952bb9cfe2ad4e6021c7295ec0d9a8b815ef2ed87e9b6583cc0",
       "warnings": []
     },
     {
