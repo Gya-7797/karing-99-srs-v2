@@ -1,7 +1,7 @@
 {
   "version": 1,
   "count": 99,
-  "generated_at_utc": "2026-09-24T09:18:39Z",
+  "generated_at_utc": "2026-09-25T09:36:29Z",
   "rules": [
     {
       "name": "115_domain",
@@ -308,8 +308,8 @@
       "output_file": "banad_domain_re2.srs",
       "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/banAd.yaml",
       "source_json": "source-json/banad_domain_re2.json",
-      "bytes": 900293,
-      "sha256": "9d8838ebc188747f57e73c63ca9f1669002178bb8f4e4a5258e56262ccc2abe9",
+      "bytes": 902848,
+      "sha256": "656d4b810061e785ad35635f9a39c3c4d3aa0dac10293b998abb7e4b42ee7f33",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/banad_domain_re2.srs"
     },
