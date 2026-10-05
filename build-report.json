@@ -275,8 +275,8 @@
       "output_file": "banad_domain_re2.srs",
       "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/banAd.yaml",
       "source_json": "source-json/banad_domain_re2.json",
-      "bytes": 867205,
-      "sha256": "cd25d40d30104f13ad8b975a2641afb27f0fe98077b34960914b1d3f92c107d2",
+      "bytes": 870057,
+      "sha256": "d0c9dc2bcdac3362a37be20a58cc649c5f86d8e5abda44acfb0e20f22425be3a",
       "warnings": []
     },
     {
@@ -455,8 +455,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 166166,
-      "sha256": "5c04317d7730c0a2275a983f9940ea70ac19a6e7a4f771a5092ed9f1a181a606",
+      "bytes": 166197,
+      "sha256": "42a273aabe020134bce21eb3d71c1a6944c23850bfefd92fb9914ad809e76f3b",
       "warnings": []
     },
     {
@@ -644,8 +644,8 @@
       "output_file": "porn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
-      "bytes": 43430,
-      "sha256": "2c711e1f406a71e05f2706669d728d98962b810f820cca589034cd56ab76987d",
+      "bytes": 43431,
+      "sha256": "c56ccd3ddc55f58c1c4bd5111554fa57170ff13dc1f04cbebf64e00c659ce8fa",
       "warnings": []
     },
     {
