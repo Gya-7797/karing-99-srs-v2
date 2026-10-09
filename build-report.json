@@ -275,8 +275,8 @@
       "output_file": "banad_domain_re2.srs",
       "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/banAd.yaml",
       "source_json": "source-json/banad_domain_re2.json",
-      "bytes": 876550,
-      "sha256": "b892de7e5db1bf870b113f28ccf330b5d673d9b2696c57ecd6101eed96e0013b",
+      "bytes": 878920,
+      "sha256": "11029781bc2e931807584b35b1b0af10c495cdf933ae61ddfcd8b8e80df633d3",
       "warnings": []
     },
     {
@@ -455,8 +455,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 166350,
-      "sha256": "7adce1524ab6cb11186f2885327032cad909c108828cb54733c2d3e03889ad21",
+      "bytes": 166421,
+      "sha256": "ebdd67f558d56bf932a76249dc32b80cec3aaf08fcc278eb9cc5501d8c0caff2",
       "warnings": []
     },
     {
@@ -482,8 +482,8 @@
       "output_file": "github_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/github.json",
       "source_json": "source-json/github_domain.json",
-      "bytes": 780,
-      "sha256": "ca7e432c39e35fe45aba1075bb0850be75d6ebba8fccaaa9eceb16f2f9a9f4c5",
+      "bytes": 786,
+      "sha256": "8468ae389d97a0502bb3b28e0a2a85df396bd93b496a8a99107e8f48798cbcb4",
       "warnings": []
     },
     {
@@ -581,8 +581,8 @@
       "output_file": "meta_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/meta.json",
       "source_json": "source-json/meta_domain.json",
-      "bytes": 4336,
-      "sha256": "3bdedd67d77d8e8528d7befe369c4d75c40be731ebcb3c490840955324212548",
+      "bytes": 4301,
+      "sha256": "023bb8b41c08e97e13d3347bf79f9a848e84700634715a2b62b456dd1a7577e9",
       "warnings": []
     },
     {
@@ -590,8 +590,8 @@
       "output_file": "microsoft_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/microsoft.json",
       "source_json": "source-json/microsoft_domain.json",
-      "bytes": 6949,
-      "sha256": "acc97b076cbf4b400609efa24a9d1e93bfe66fd2d786de8c143345c74b5a3f81",
+      "bytes": 6956,
+      "sha256": "7a8b5249b9f867522d11a974c356971025f3b88db37fd17056b1b5b718880d64",
       "warnings": []
     },
     {
@@ -644,8 +644,8 @@
       "output_file": "porn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
-      "bytes": 43431,
-      "sha256": "c56ccd3ddc55f58c1c4bd5111554fa57170ff13dc1f04cbebf64e00c659ce8fa",
+      "bytes": 43430,
+      "sha256": "2c711e1f406a71e05f2706669d728d98962b810f820cca589034cd56ab76987d",
       "warnings": []
     },
     {
@@ -869,8 +869,8 @@
       "output_file": "whatsapp_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/whatsapp.json",
       "source_json": "source-json/whatsapp_domain.json",
-      "bytes": 194,
-      "sha256": "47a4c247d4ba42a78a80a818bc5c56be6f5f9dd277691af6086fb6807f112667",
+      "bytes": 180,
+      "sha256": "b74716d75519260827ef54182d74f1791f8701bf7272113cd08878f205cb9868",
       "warnings": []
     },
     {
