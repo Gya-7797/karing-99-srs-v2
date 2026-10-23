@@ -275,8 +275,8 @@
       "output_file": "banad_domain_re2.srs",
       "source_url": "https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/rules/Domain/banAd.yaml",
       "source_json": "source-json/banad_domain_re2.json",
-      "bytes": 919227,
-      "sha256": "287b8c965b494d562998503c3758834efe80d519d89d1642233a3919dc829c34",
+      "bytes": 923534,
+      "sha256": "47757aa2ea00bd990891e61300c72c8cedfa59890ef67e528e6c5a517b42699f",
       "warnings": []
     },
     {
@@ -338,8 +338,8 @@
       "output_file": "crypto_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-cryptocurrency.json",
       "source_json": "source-json/crypto_domain.json",
-      "bytes": 2019,
-      "sha256": "f6bf97359b2b5c773a2dc51756279025176c7dcccb68500a744df5f2a0fc8845",
+      "bytes": 2055,
+      "sha256": "b0ba1506a35b8a52fef10db53d814066674750d17147041669e083576b55071e",
       "warnings": []
     },
     {
@@ -455,8 +455,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 166961,
-      "sha256": "e9ac320aa19aca0d01a07a4a85a99a4859ce6cfbab0d1aa7a599d5853fe6e5c5",
+      "bytes": 167142,
+      "sha256": "21205fb1923c1405dd58a68e212be30e188f510b5c565b7b85105e505b7cddaf",
       "warnings": []
     },
     {
@@ -752,8 +752,8 @@
       "output_file": "steam_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/steam.json",
       "source_json": "source-json/steam_domain.json",
-      "bytes": 800,
-      "sha256": "2a2045e557ec35e16b48e7f0f5b0012df33df7b588b79f59750ca6376734bfc0",
+      "bytes": 818,
+      "sha256": "92625d90c18785423b11692609c838e76d955e0df13fc8c4d35f0138f2c217df",
       "warnings": []
     },
     {
