@@ -320,8 +320,8 @@
       "output_file": "cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/cn.json",
       "source_json": "source-json/cn_domain.json",
-      "bytes": 441514,
-      "sha256": "1ab326263fd6614cc7bf25613f08bbdd3b25d31e4bf1b67f0084630d5fcbf2f7",
+      "bytes": 439978,
+      "sha256": "947ebfe89fe8448c68fd60dc32f002d07e4dad3a8e43aa8e0192a8e09029d24b",
       "warnings": []
     },
     {
@@ -447,7 +447,7 @@
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-games%40cn.json",
       "source_json": "source-json/game_cn_domain.json",
       "bytes": 584,
-      "sha256": "8e31db135ff579e6859d9373320a86c725da8860f7d3dc1737754eee6597e53e",
+      "sha256": "8300c5712c371124e225a83629f6f2bdd5a31e0e5ed24ea5f8937609866c9496",
       "warnings": []
     },
     {
@@ -455,8 +455,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 166966,
-      "sha256": "f3a955f9a7f04ea7b0f6cd29bb18bc23bd60fbf67f5163a7c139150cb11e646a",
+      "bytes": 167154,
+      "sha256": "8925c7cd69d79a6453f760eec1afe67904d18731450d081cb8d5beda7a22fae6",
       "warnings": []
     },
     {
