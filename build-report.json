@@ -185,8 +185,8 @@
       "output_file": "ai_cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-ai-cn.json",
       "source_json": "source-json/ai_cn_domain.json",
-      "bytes": 985,
-      "sha256": "558b2c31d3a60b7a836139c2c4b0587e798bebaf5e128c4eb78019e6b2a39363",
+      "bytes": 1011,
+      "sha256": "201f30665bfad2e7c3677e88f9cc791bbbd919c3838e4d8a8adecc564ac40e44",
       "warnings": []
     },
     {
@@ -455,8 +455,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 166950,
-      "sha256": "d9e8f5dc5df5c2e5095b2f60f5147bb79b67d32ce54f5c7e09251da8490ba9c0",
+      "bytes": 166976,
+      "sha256": "fb726327209c4ab5794aca7d45aed39d30a0bcd04204f2965ef373b36b6d0900",
       "warnings": []
     },
     {
@@ -464,8 +464,8 @@
       "output_file": "gfw_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/gfw.json",
       "source_json": "source-json/gfw_domain.json",
-      "bytes": 28724,
-      "sha256": "eda86be92b4918610085f83eb78eddd369e63d5a4bab910b5107ea995db129c3",
+      "bytes": 28701,
+      "sha256": "93be9e22450f4b5ee80ada2d361a5bf8d53a65f1daaf430f613a580e4de47128",
       "warnings": []
     },
     {
@@ -590,8 +590,8 @@
       "output_file": "microsoft_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/microsoft.json",
       "source_json": "source-json/microsoft_domain.json",
-      "bytes": 6985,
-      "sha256": "40bf7cdcaa2a415615a7c5794e6966c8e98b6915fc3df73a14a93bfdbd913a83",
+      "bytes": 6991,
+      "sha256": "8ac997a32278d6fed1bf86a1c5a194e14a400434ac93e3cceac5a8ef3527d4c5",
       "warnings": []
     },
     {
@@ -644,8 +644,8 @@
       "output_file": "porn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
-      "bytes": 43430,
-      "sha256": "2c711e1f406a71e05f2706669d728d98962b810f820cca589034cd56ab76987d",
+      "bytes": 43413,
+      "sha256": "ba1eb5b9c8ac45138168564d8b0562bb9f8d8bf2497bca32a52e371194081cc8",
       "warnings": []
     },
     {
@@ -824,8 +824,8 @@
       "output_file": "tiktok_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/tiktok.json",
       "source_json": "source-json/tiktok_domain.json",
-      "bytes": 472,
-      "sha256": "8bcb8d171a46882293bd657aac4756aa5c531b0bf2439e72222bfe50c0238ddb",
+      "bytes": 500,
+      "sha256": "165ee410180ac00037ba6aad8f1c969289af76d1ddff7e2a6629502d3424f66a",
       "warnings": []
     },
     {
