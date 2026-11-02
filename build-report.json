@@ -185,8 +185,8 @@
       "output_file": "ai_cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-ai-cn.json",
       "source_json": "source-json/ai_cn_domain.json",
-      "bytes": 1011,
-      "sha256": "201f30665bfad2e7c3677e88f9cc791bbbd919c3838e4d8a8adecc564ac40e44",
+      "bytes": 1020,
+      "sha256": "2db45345ac313225bb035ea976766976d9551e7faa027449e98b3ca058653158",
       "warnings": []
     },
     {
@@ -203,8 +203,8 @@
       "output_file": "alibaba_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/alibaba.json",
       "source_json": "source-json/alibaba_domain.json",
-      "bytes": 3342,
-      "sha256": "69eea644e581b5a8c882ea7a9585538e43013e08d2cab8dacb114bf29ecf6300",
+      "bytes": 3364,
+      "sha256": "29aea192f2e2e01b9b37282ae8a695211e92ead4e30066c85dcea7e83b92a0cd",
       "warnings": []
     },
     {
@@ -455,8 +455,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 167023,
-      "sha256": "307c05c5266fff84273cc7ca2a18aab23ac4d963dd2a3bdb50f1e3563aadc002",
+      "bytes": 167030,
+      "sha256": "ab7120397418802de354846be942114cda7e3e9d458a9dd283ab2b20b180494f",
       "warnings": []
     },
     {
@@ -644,8 +644,8 @@
       "output_file": "porn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
-      "bytes": 43414,
-      "sha256": "d2f20aae45a06b9265e4556e9ea2c7c147be4b5d7d65f70fcaafd90c29f481b7",
+      "bytes": 43413,
+      "sha256": "ba1eb5b9c8ac45138168564d8b0562bb9f8d8bf2497bca32a52e371194081cc8",
       "warnings": []
     },
     {
