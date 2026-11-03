@@ -329,8 +329,8 @@
       "output_file": "cn_ip.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/cn.json",
       "source_json": "source-json/cn_ip.json",
-      "bytes": 37214,
-      "sha256": "dee4662451d65d9b7bdd6d308876919902cd897b2fa3cdf7f1d2a12fb3ced37e",
+      "bytes": 36436,
+      "sha256": "3ba72aa58548f1f9c57c0351167da4a7beaba618e82ded53c335a2c2569a8145",
       "warnings": []
     },
     {
@@ -644,8 +644,8 @@
       "output_file": "porn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
-      "bytes": 43413,
-      "sha256": "ba1eb5b9c8ac45138168564d8b0562bb9f8d8bf2497bca32a52e371194081cc8",
+      "bytes": 43415,
+      "sha256": "3699de8e3efdb496e34cdd8ba02f209459f559b359be46ce7700778d90c425db",
       "warnings": []
     },
     {
