@@ -464,8 +464,8 @@
       "output_file": "gfw_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/gfw.json",
       "source_json": "source-json/gfw_domain.json",
-      "bytes": 28754,
-      "sha256": "cfd36209cbf992801cae63ef653a1eaa629ffc2558686fbb8ba105e6d6f562c2",
+      "bytes": 28750,
+      "sha256": "172028aa51335b584c55c9f66baeaaf2a14ae9bc943c43439ce16487c7f55684",
       "warnings": []
     },
     {
@@ -644,8 +644,8 @@
       "output_file": "porn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
-      "bytes": 43406,
-      "sha256": "56719fcf21b8c1ef323f75656f11da0eed9c04baaa76781192e1d865fdcedb12",
+      "bytes": 43408,
+      "sha256": "80a551f9261954280efbef1ad879c25bddf1899479c9562481aa18e43ca93e7a",
       "warnings": []
     },
     {
