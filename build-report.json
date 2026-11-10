@@ -185,8 +185,8 @@
       "output_file": "ai_cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-ai-cn.json",
       "source_json": "source-json/ai_cn_domain.json",
-      "bytes": 1082,
-      "sha256": "2155db6579de10d707cb3b0ccb5d4fa577b04baa374b27df93739caf6cc9dd2f",
+      "bytes": 1088,
+      "sha256": "13950b95c6320840d72a4382e095f30768e5ed4e4f68f595ae851efd389e8082",
       "warnings": []
     },
     {
@@ -447,7 +447,7 @@
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-games%40cn.json",
       "source_json": "source-json/game_cn_domain.json",
       "bytes": 584,
-      "sha256": "8e31db135ff579e6859d9373320a86c725da8860f7d3dc1737754eee6597e53e",
+      "sha256": "8300c5712c371124e225a83629f6f2bdd5a31e0e5ed24ea5f8937609866c9496",
       "warnings": []
     },
     {
@@ -644,8 +644,8 @@
       "output_file": "porn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
-      "bytes": 43407,
-      "sha256": "2c17310088a84ad713153ea5373c1b6b0717ff6d30681ac65da42feb47d72a0d",
+      "bytes": 43406,
+      "sha256": "56719fcf21b8c1ef323f75656f11da0eed9c04baaa76781192e1d865fdcedb12",
       "warnings": []
     },
     {
