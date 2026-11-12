@@ -329,8 +329,8 @@
       "output_file": "cn_ip.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/cn.json",
       "source_json": "source-json/cn_ip.json",
-      "bytes": 36438,
-      "sha256": "5f51d96d73994c1f12a505f001206b2f5958cb6a2c499f3014dc9231e62ad672",
+      "bytes": 36398,
+      "sha256": "129f6fd0df83b31b37807dec08ad3fb182dcf74a819a150e205216dded9d0824",
       "warnings": []
     },
     {
@@ -419,8 +419,8 @@
       "output_file": "facebook_ip.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/facebook.json",
       "source_json": "source-json/facebook_ip.json",
-      "bytes": 531,
-      "sha256": "6772191de0961ab5c77d2067816b394055226ebcc4d6e791dc27c4a02ed376b1",
+      "bytes": 525,
+      "sha256": "18d4e6bafa5de3b6b23cc7968a643d5f098c7ad3e22585b7373291e7ad632171",
       "warnings": []
     },
     {
@@ -509,8 +509,8 @@
       "output_file": "google_ip.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/google.json",
       "source_json": "source-json/google_ip.json",
-      "bytes": 8391,
-      "sha256": "0a1bff6f9bb2023940cefb24cc5bc0859e7b9ddb9be89c6e5f607135c11d2625",
+      "bytes": 8204,
+      "sha256": "3522fbb29cda85cfa9bd78ae65cf11ef5431d80043b0f2b12b80129ac431ee9c",
       "warnings": []
     },
     {
