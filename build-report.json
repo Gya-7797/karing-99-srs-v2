@@ -644,8 +644,8 @@
       "output_file": "porn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
-      "bytes": 43406,
-      "sha256": "56719fcf21b8c1ef323f75656f11da0eed9c04baaa76781192e1d865fdcedb12",
+      "bytes": 43407,
+      "sha256": "2c17310088a84ad713153ea5373c1b6b0717ff6d30681ac65da42feb47d72a0d",
       "warnings": []
     },
     {
