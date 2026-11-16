@@ -1,7 +1,7 @@
 {
   "version": 1,
   "count": 99,
-  "generated_at_utc": "2026-11-15T11:57:02Z",
+  "generated_at_utc": "2026-11-16T12:43:56Z",
   "rules": [
     {
       "name": "115_domain",
@@ -268,8 +268,8 @@
       "output_file": "apple_cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/apple%40cn.json",
       "source_json": "source-json/apple_cn_domain.json",
-      "bytes": 2249,
-      "sha256": "f2b8ef9c20f5bba07a380dabe711eda4aa2cf895f7846af9e8b459a24703c554",
+      "bytes": 2303,
+      "sha256": "46193bdbcfbb373d77fb1219bcbaf1685ee937509e7e46d2abfbcf8ad49ee61e",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/apple_cn_domain.srs"
     },
@@ -278,8 +278,8 @@
       "output_file": "apple_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/apple.json",
       "source_json": "source-json/apple_domain.json",
-      "bytes": 15675,
-      "sha256": "76875d49beccb539a3f48d69627bf7f9e8a1c6c2d57cdeb1a60d0dfddd0a3f81",
+      "bytes": 15731,
+      "sha256": "74ef6bc826e30f80fc4400ae56654a180ed4bd1ab5ac26a69f2c4851136b6aee",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/apple_domain.srs"
     },
@@ -378,8 +378,8 @@
       "output_file": "crypto_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-cryptocurrency.json",
       "source_json": "source-json/crypto_domain.json",
-      "bytes": 2055,
-      "sha256": "b0ba1506a35b8a52fef10db53d814066674750d17147041669e083576b55071e",
+      "bytes": 2066,
+      "sha256": "755c506e0dacf53dbb8345806aaf94b669e5616d77177d89c17d07cdf0abdd4d",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/crypto_domain.srs"
     },
@@ -508,8 +508,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 167188,
-      "sha256": "1eb03573c7648c7ccf9ecbef86c5cea3326bfae2be45e7d46887cf9cdcdf0209",
+      "bytes": 167283,
+      "sha256": "dc0cbf6adf44cff906ca43556b18c3b421540ded0b0e76c95b0c3f43e498a886",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/geolocation-not-cn.srs"
     },
@@ -658,8 +658,8 @@
       "output_file": "microsoft_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/microsoft.json",
       "source_json": "source-json/microsoft_domain.json",
-      "bytes": 7035,
-      "sha256": "5d31e9888392e2bec0c8340b8f4e0575a03fc06fa9adbe7b53038a1e64659cd2",
+      "bytes": 7076,
+      "sha256": "83c84b3eac84909f553d2b52e3703be587d6a1f5cebf05ebb0770002115a0d2b",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/microsoft_domain.srs"
     },
@@ -719,7 +719,7 @@
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
       "bytes": 43407,
-      "sha256": "2c17310088a84ad713153ea5373c1b6b0717ff6d30681ac65da42feb47d72a0d",
+      "sha256": "e30e5fdf15f4d1a2cf5b559fbff880346d36a44f20aa9ed08141ca0e219d4bb4",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/porn_domain.srs"
     },
