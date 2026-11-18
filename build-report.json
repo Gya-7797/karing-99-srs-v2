@@ -176,8 +176,8 @@
       "output_file": "ai-not-cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-ai-!cn.json",
       "source_json": "source-json/ai-not-cn_domain.json",
-      "bytes": 2186,
-      "sha256": "da6c7632230f4181022beb99891d812b2ce4591c0df786f06326d3d8661f1b69",
+      "bytes": 2191,
+      "sha256": "5a9b7a2319e7479080e7afb5a5bf34bfa710e4e58c9812d125e203bbf54cbf50",
       "warnings": []
     },
     {
