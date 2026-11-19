@@ -1,7 +1,7 @@
 {
   "version": 1,
   "count": 99,
-  "generated_at_utc": "2026-11-18T13:01:33Z",
+  "generated_at_utc": "2026-11-19T13:03:54Z",
   "rules": [
     {
       "name": "115_domain",
@@ -228,8 +228,8 @@
       "output_file": "alibaba_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/alibaba.json",
       "source_json": "source-json/alibaba_domain.json",
-      "bytes": 3364,
-      "sha256": "29aea192f2e2e01b9b37282ae8a695211e92ead4e30066c85dcea7e83b92a0cd",
+      "bytes": 3367,
+      "sha256": "9ee208ec9229b21335acf4bad4ee22d8eeac4c3cb5e0cab291240666436499e6",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/alibaba_domain.srs"
     },
@@ -238,8 +238,8 @@
       "output_file": "aliyun_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/aliyun.json",
       "source_json": "source-json/aliyun_domain.json",
-      "bytes": 799,
-      "sha256": "9dd927fb1b2067b88a79cdeebef8501314edc924fc9acdbd5b7d96ab1aed2068",
+      "bytes": 794,
+      "sha256": "eea30bf14a1d1970102016ab59ecc98ad2c121e0afd1a918631186f83f1afcc0",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/aliyun_domain.srs"
     },
@@ -368,8 +368,8 @@
       "output_file": "cn_ip.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/cn.json",
       "source_json": "source-json/cn_ip.json",
-      "bytes": 36398,
-      "sha256": "129f6fd0df83b31b37807dec08ad3fb182dcf74a819a150e205216dded9d0824",
+      "bytes": 36413,
+      "sha256": "d71aee0defe7dbeb4ad3193d61d6af853764d5bab560ede6a296be18249ef250",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/cn_ip.srs"
     },
@@ -508,8 +508,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 167330,
-      "sha256": "c7d0502e33ce40cfc16fbca9b978069247e2f8067ba8070b43ae8a9dc68c3bd6",
+      "bytes": 167240,
+      "sha256": "bb201a01a3d8a4206db88e23b9e168fca7068d449c2cb009c509ff579bfb70c2",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/geolocation-not-cn.srs"
     },
@@ -568,8 +568,8 @@
       "output_file": "google_ip.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geoip/google.json",
       "source_json": "source-json/google_ip.json",
-      "bytes": 8204,
-      "sha256": "3522fbb29cda85cfa9bd78ae65cf11ef5431d80043b0f2b12b80129ac431ee9c",
+      "bytes": 7752,
+      "sha256": "c0e60597b1a55ef6ff1f8b97df2173f76f2fa202967d9e8a2b0f2b4ee4b6cbf2",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/google_ip.srs"
     },
@@ -638,8 +638,8 @@
       "output_file": "media_cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-media-cn.json",
       "source_json": "source-json/media_cn_domain.json",
-      "bytes": 2876,
-      "sha256": "b3feb78c0cac3d55e33417528fcb86dc04657f7632fc2eb08d49cc56ab1fd8a2",
+      "bytes": 2894,
+      "sha256": "1aed8a4a79f1b035d231ec8eb5a3874896dded878f01cecbde6c95d0fbbca22c",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/media_cn_domain.srs"
     },
@@ -718,8 +718,8 @@
       "output_file": "porn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
-      "bytes": 43407,
-      "sha256": "2c17310088a84ad713153ea5373c1b6b0717ff6d30681ac65da42feb47d72a0d",
+      "bytes": 43408,
+      "sha256": "b25a59fcc644539fc5e9e4a329790d531163280a48b184f394cbcb72be363a9a",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/porn_domain.srs"
     },
@@ -978,8 +978,8 @@
       "output_file": "xiaomi_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/xiaomi.json",
       "source_json": "source-json/xiaomi_domain.json",
-      "bytes": 647,
-      "sha256": "f4f36e8adb1138a072c264d0c56aaba2c0f1c1db7913fcbfec412eb91e432fee",
+      "bytes": 641,
+      "sha256": "76f66a0f63ad8b8c945315601bc37588fc466af4f646b4599d3b091bcd109489",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/xiaomi_domain.srs"
     },
