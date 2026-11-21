@@ -248,8 +248,8 @@
       "output_file": "apple_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/apple.json",
       "source_json": "source-json/apple_domain.json",
-      "bytes": 15731,
-      "sha256": "74ef6bc826e30f80fc4400ae56654a180ed4bd1ab5ac26a69f2c4851136b6aee",
+      "bytes": 14694,
+      "sha256": "2992d02319b60faa8b34352ea594fde5c01679750219d84875116922203e67ae",
       "warnings": []
     },
     {
@@ -455,8 +455,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 167240,
-      "sha256": "bb201a01a3d8a4206db88e23b9e168fca7068d449c2cb009c509ff579bfb70c2",
+      "bytes": 166567,
+      "sha256": "89376755522d04bd330dfe46e1656c68b29525fd40fe4e3bdb74a054bf8a33a3",
       "warnings": []
     },
     {
@@ -464,8 +464,8 @@
       "output_file": "gfw_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/gfw.json",
       "source_json": "source-json/gfw_domain.json",
-      "bytes": 28772,
-      "sha256": "66950e3953ab65c05522504682819928daabff3240a622da462402b7b2144b2e",
+      "bytes": 28906,
+      "sha256": "04da13b482cdfb69272ad8b40a8d567dfe8f4d6f75819a31fbafa17ab341000b",
       "warnings": []
     },
     {
@@ -644,8 +644,8 @@
       "output_file": "porn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
-      "bytes": 43407,
-      "sha256": "2c17310088a84ad713153ea5373c1b6b0717ff6d30681ac65da42feb47d72a0d",
+      "bytes": 43408,
+      "sha256": "b25a59fcc644539fc5e9e4a329790d531163280a48b184f394cbcb72be363a9a",
       "warnings": []
     },
     {
