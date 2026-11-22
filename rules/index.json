@@ -1,7 +1,7 @@
 {
   "version": 1,
   "count": 99,
-  "generated_at_utc": "2026-11-21T12:38:37Z",
+  "generated_at_utc": "2026-11-22T12:34:46Z",
   "rules": [
     {
       "name": "115_domain",
@@ -499,7 +499,7 @@
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-games%40cn.json",
       "source_json": "source-json/game_cn_domain.json",
       "bytes": 584,
-      "sha256": "8e31db135ff579e6859d9373320a86c725da8860f7d3dc1737754eee6597e53e",
+      "sha256": "8300c5712c371124e225a83629f6f2bdd5a31e0e5ed24ea5f8937609866c9496",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/game_cn_domain.srs"
     },
@@ -508,8 +508,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 166567,
-      "sha256": "89376755522d04bd330dfe46e1656c68b29525fd40fe4e3bdb74a054bf8a33a3",
+      "bytes": 166680,
+      "sha256": "2966af9c6b3cb9f28c59dd5b5de89d7c3af85728148b497e104a14d738260aa2",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/geolocation-not-cn.srs"
     },
@@ -718,8 +718,8 @@
       "output_file": "porn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-porn.json",
       "source_json": "source-json/porn_domain.json",
-      "bytes": 43408,
-      "sha256": "b25a59fcc644539fc5e9e4a329790d531163280a48b184f394cbcb72be363a9a",
+      "bytes": 43409,
+      "sha256": "ad5c731bd6a9f6fc26cbdc67e5a4473ded8ca55413112e589d37b30b67239fa4",
       "warnings": [],
       "url": "https://raw.githubusercontent.com/Gya-7797/karing-99-srs-v2/main/rules/porn_domain.srs"
     },
