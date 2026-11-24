@@ -176,8 +176,8 @@
       "output_file": "ai-not-cn_domain.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/category-ai-!cn.json",
       "source_json": "source-json/ai-not-cn_domain.json",
-      "bytes": 2191,
-      "sha256": "5a9b7a2319e7479080e7afb5a5bf34bfa710e4e58c9812d125e203bbf54cbf50",
+      "bytes": 2189,
+      "sha256": "da63e716582707e686c1132b097b79962eae9b6339a374b4f39a25f5df53ca46",
       "warnings": []
     },
     {
@@ -455,8 +455,8 @@
       "output_file": "geolocation-not-cn.srs",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo/geosite/geolocation-!cn.json",
       "source_json": "source-json/geolocation-not-cn.json",
-      "bytes": 166680,
-      "sha256": "2966af9c6b3cb9f28c59dd5b5de89d7c3af85728148b497e104a14d738260aa2",
+      "bytes": 166675,
+      "sha256": "0bdc26014c422ae1d7b073346c9cf7d14067bcdf247a0c9ff76f71a1f2bf7bac",
       "warnings": []
     },
     {
